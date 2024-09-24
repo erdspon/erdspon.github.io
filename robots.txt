@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://erdspon.github.io/sitemap.html.gz
+Sitemap: https://erdspon.github.io/app/sitemap.html.gz
+Sitemap: https://erdspon.github.io/assets/sitemap.html.gz
+Sitemap: https://erdspon.github.io/css/sitemap.html.gz
+Sitemap: https://erdspon.github.io/data/sitemap.html.gz
+Sitemap: https://erdspon.github.io/includes/sitemap.html.gz
+Sitemap: https://erdspon.github.io/item/sitemap.html.gz
+Sitemap: https://erdspon.github.io/src/sitemap.html.gz
